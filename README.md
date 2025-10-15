@@ -114,5 +114,3 @@ See [`progress_tracker.md`](./progress_tracker.md) for my weekly progress and re
 
 ---
 > *“Data engineers build the highways of the data world — connecting raw information to meaningful insight.”*
----
-> “Data engineers are the architects of insight — turning raw information into meaningful intelligence.”
