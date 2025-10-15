@@ -168,8 +168,8 @@
 - Flashcards reviewed  
 
 ## 🧭End-of-Phase Milestone
-- By the end of **Phase 1 (Day 30)**, you’ll have:
 
+### By the end of **Phase 1 (Day 30)**, you’ll have:
 ✅ Mastered **Python fundamentals** (syntax, data structures, functions, OOP)  
 ✅ Learned **CLI scripting** and basic Linux commands  
 ✅ Understood **Git and GitHub workflows** (branching, merging, version control)  
